@@ -7,6 +7,11 @@ Basicos de open-cv:
 * Rotación
 * Guardado
 * Visualización
+* Templates
+* Uso de webcam
+* Detección rostros
+* Detección ojos
+* Detección sonrisas
 
 ## Ejecución
 
