@@ -13,7 +13,12 @@ Basicos de open-cv:
 * Detección ojos
 * Detección sonrisas
 
-## Ejecución
+## Requerimientos
 
 1. pip install -r requirements.txt
-2. python basics.py
+
+Alternativa:
+
+```bash
+pip install opencv-python
+```
