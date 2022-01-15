@@ -1,6 +1,8 @@
 # 🖼️ Hello Open-CV
 
-Basicos de open-cv:
+[![Visits Badge](https://badges.pufler.dev/visits/ezeparziale/hello-opencv?style=flat-square)]()
+
+## Basicos de open-cv
 
 * Carga de imagen
 * Tamaño
@@ -15,10 +17,12 @@ Basicos de open-cv:
 
 ## 📦 Requerimientos
 
-1. pip install -r requirements.txt
+```shell
+pip install -r requirements.txt
+```
 
 Alternativa:
 
-```bash
+```shell
 pip install opencv-python
 ```
