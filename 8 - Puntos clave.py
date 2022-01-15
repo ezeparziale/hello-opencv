@@ -2,7 +2,7 @@ import cv2
 import numpy as np
 
 # Carga
-img = cv2.imread('img/image1.jpg')
+img = cv2.imread('img/image_1.jpg')
 img = cv2.resize(img, (0, 0), fx=0.5, fy=0.5)
 gray = cv2.cvtColor(img, cv2.COLOR_BGR2GRAY)
 
