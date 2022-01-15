@@ -1,4 +1,4 @@
-# Hello Open-CV
+# 🖼️ Hello Open-CV
 
 Basicos de open-cv:
 
@@ -13,7 +13,7 @@ Basicos de open-cv:
 * Detección ojos
 * Detección sonrisas
 
-## Requerimientos
+## 📦 Requerimientos
 
 1. pip install -r requirements.txt
 
